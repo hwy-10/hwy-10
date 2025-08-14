@@ -1,10 +1,15 @@
 ## Hi there 👋
+I'm Heo Yun, aspiring to become an Embedded Software Engineer.
+I’m currently studying at chung-ang University, majoring in Electronic and Electrical Engineering(EEE)
+📫 Reach me at "hwy_10@naver.com"
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 ## 🛠️ Tech Stack
+### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### Tools
+
 ## Planned to learn
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
