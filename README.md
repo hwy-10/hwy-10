@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Heo Yun, aspiring to become an Embedded Software Engineer.
-I’m currently studying at chung-ang University, majoring in Electronic and Electrical Engineering(EEE)
-📫 Reach me at "hwy_10@naver.com"
+I'm Heo Yun, aspiring to become an Embedded Software Engineer.  
+I’m currently studying at chung-ang University, majoring in Electronic and Electrical Engineering(EEE)  
+📫 Reach me at "hwy_10@naver.com"  
 
 
 ## 🛠️ Tech Stack
