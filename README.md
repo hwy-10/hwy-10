@@ -2,20 +2,20 @@
 I'm Heo Yun, aspiring to become an Embedded Software Engineer.  
 I’m currently studying at chung-ang University, majoring in Electronic and Electrical Engineering(EEE)  
 📫 Reach me at "hwy_10@naver.com"  
-
-
 ## 🛠️ Tech Stack
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ### Tools
-
+![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7F0E.svg?style=for-the-badge&logo=matlab&logoColor=white)
+![PSpice](https://img.shields.io/badge/PSpice-%23005CAB.svg?style=for-the-badge&logoColor=white)
 ## Planned to learn
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ### Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
