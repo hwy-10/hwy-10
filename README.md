@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=yourusername)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)
+
 <!--
 **hwy-10/hwy-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
