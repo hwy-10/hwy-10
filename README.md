@@ -9,6 +9,11 @@ I’m currently studying at chung-ang University, majoring in Electronic and Ele
 ### Tools
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F0E?style=for-the-badge&logo=matlab&logoColor=white)
 ![PSpice](https://img.shields.io/badge/PSpice-005CAB?style=for-the-badge&logoColor=white)
+## learning now...
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ## Planned to learn
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
